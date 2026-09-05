@@ -1,5 +1,10 @@
 
 # *Seasonal Agriculture Performance Analysis*
+VOIS and Vodafone Idea Foundation Data Analytics Virtual Internship by Edunet
+
+Name: Prajwal N P
+
+
 ## *Major Data Analytics Project*
 *Domain:* Agriculture
 
